@@ -1,0 +1,31 @@
+SALES TREND VISUALIZATION - SUMMARY REPORT
+=============================================
+
+Total records analyzed: 16,544
+Date range: 2022-01-01 to 2024-12-31
+Total revenue: $4,906,926.72
+Average transaction value: $296.60
+
+Revenue by Year:
+ Year    Revenue
+ 2022 1454380.74
+ 2023 1586937.60
+ 2024 1865608.38
+
+Revenue by Category:
+      Category    Revenue
+   Electronics 2857299.69
+Home & Kitchen  759692.11
+      Clothing  567633.65
+        Sports  464051.10
+        Beauty  258250.17
+
+Revenue by Region:
+Region
+South    1258492.51
+West     1244666.31
+East     1211073.42
+North    1192694.48
+
+Best performing month: 2024-11 ($226,263.76)
+Best performing weekday: Saturday ($871,842.40)
